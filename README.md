@@ -1,10 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9c8cd&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hi;My+name+is+Luiz+Albuquerque;Let's+code?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hello;My+name+is+Luiz+Albuquerque;Let's+code?)](https://git.io/typing-svg)
 
 <br />
 
-## Currently studying:
+## Introduction
+
+Currently, I'm pursuing my degree with the aim of enhancing my skills in statistical analysis, data visualization, and machine learning.
+
+## Skills
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width= "5%" />
