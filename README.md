@@ -8,7 +8,7 @@
  
 <br />
 
-- **Education:** Management of Information Technology student
+- **Education:** Information Technology Management
 - **Interests:** Data Analysis
 
 <br />
@@ -24,9 +24,11 @@
 ### 🛠️ Tools
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width= "5%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width= "5%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width= "5%" /> 
+  <img src="https://github.com/luiz-11/luiz-11/assets/160193643/78d4e507-4608-4f45-b185-18e5d12db528" width="7%" />
+  <img src="https://github.com/luiz-11/luiz-11/assets/160193643/5ddc36f0-3824-4f78-b97f-f65a9d3cb974" width="7%" />
+  <img src="https://github.com/luiz-11/luiz-11/assets/160193643/5eec943e-5c15-4b22-8abf-c264fce5f91d" width="7%" />
+  <img src="https://github.com/luiz-11/luiz-11/assets/160193643/c61b2177-ff41-4c17-a54d-b372ea23d285" width="7%" />
+  <img src="https://github.com/luiz-11/luiz-11/assets/160193643/9c1871c3-b613-4a27-b20e-5aedcd324bac" width="7%" />
 </div>
 
 <br />
