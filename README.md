@@ -39,6 +39,7 @@ If you are interested in using this README, please do not copy and paste directl
   <img src="https://github.com/luiz-11/luiz-11/assets/160193643/5ddc36f0-3824-4f78-b97f-f65a9d3cb974" width="7%" alt="C" />
   <img src="https://github.com/luiz-11/luiz-11/assets/160193643/5eec943e-5c15-4b22-8abf-c264fce5f91d" width="7%" alt="PostgreeSQL" />
   <img src="https://github.com/luiz-11/luiz-11/assets/160193643/c61b2177-ff41-4c17-a54d-b372ea23d285" width="7%" alt="SQL" />
+  <img src="https://github.com/luiz-11/luiz-11/assets/160193643/9fa14a0b-0dec-40bc-ae0e-4a30c09a3305" width="7%" alt="Docker" />
   <img src="https://github.com/luiz-11/luiz-11/assets/160193643/9c1871c3-b613-4a27-b20e-5aedcd324bac" width="7%" alt="Excel" />
 </div>
 
